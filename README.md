@@ -1,17 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to ICC-RDFZ-IBDP class 2020 HL!
 
-You can use the [editor on GitHub](https://github.com/wudithu08/icc-rdfz-ibdp-2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We will build our courses together
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course description
 
-### Markdown
+IBDP computer science HL:
+We have 4 different parts
+1. Core
+2. Option
+3. Case Study
+4. The solution (IA)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Course Outline
+# 1. Introduction
+## Intro
+## Github for us
+## Quiz for you
+
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
+
+
+
 ## Header 2
 ### Header 3
 
@@ -24,7 +35,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -35,3 +46,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
