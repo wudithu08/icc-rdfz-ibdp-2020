@@ -16,8 +16,9 @@ Course Outline
 ## Intro
 ## Github for us
 ## Quiz for you
-```markdown
-Please see the quiz here: 
+
+
+The quiz is in: first-test.py
 
 You may refer to the website for anything you want, here are some references for you:
 
@@ -25,4 +26,7 @@ http://openbookproject.net/thinkcs/python/english3e/
 http://interactivepython.org/courselib/static/thinkcspy/index.html
 https://www.w3schools.com/python/
 
-```
+
+
+For editing content in github:
+https://guides.github.com/features/mastering-markdown/
