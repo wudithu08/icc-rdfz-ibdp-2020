@@ -21,7 +21,7 @@ Please see the quiz here:
 
 You may refer to the website for anything you want, here are some references for you:
 
-[http://openbookproject.net/thinkcs/python/english3e/](http://openbookproject.net/thinkcs/python/english3e/)
+http://openbookproject.net/thinkcs/python/english3e/
 http://interactivepython.org/courselib/static/thinkcspy/index.html
 https://www.w3schools.com/python/
 
