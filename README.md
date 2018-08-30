@@ -1,7 +1,7 @@
 ## Welcome to ICC-RDFZ-IBDP class 2020 HL!
 
 We will build our courses together. Who we are:
-[Helen Bai](https://github.com/HelenBai2002Tong/Helen), Jerry Hao, Charlie Hai, David Xing, Hanbo Guo, Tony Wang
+[Helen Bai](https://github.com/HelenBai2002Tong/Helen), Jerry Hao, Charlie Hai, David Xing, [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo), Tony Wang
 
 ### Course description
 
