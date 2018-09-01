@@ -38,7 +38,7 @@ https://classroom.udacity.com/courses/ud775
 
 #2. Lecture Notes
 
-#3. [Assignments Submission](./Assignments/assignments_submission.md)
+#3. [Assignments Submission](/Assignments/assignments_submission.md)
 
 
 
