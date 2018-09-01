@@ -5,7 +5,7 @@ Please put your homework here :)
 [1.2018.8.30](##2018.8.30)
 
 ## 2018.8.30
-------------------------------------------------------------------------------------
+
 ### Homework a:
 
 Finish test programming upload in your projects and copy link to our course page.  -- DDL: Sunday Sep 2nd 6:00pm
