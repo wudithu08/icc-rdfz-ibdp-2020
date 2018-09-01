@@ -35,3 +35,11 @@ For editing content in github:
 https://guides.github.com/features/mastering-markdown/
 
 https://classroom.udacity.com/courses/ud775 
+
+# 2. Lecture Notes
+
+
+# 3. FirstTest
+## Links
+JerryHao [FirstTestJerryHao](https://github.com/JerryHao2001/HAO/blob/master/IB/HW/FirstTestJerryHao)
+
