@@ -36,9 +36,9 @@ https://guides.github.com/features/mastering-markdown/
 
 https://classroom.udacity.com/courses/ud775 
 
-#2. Lecture Notes
+# 2. Lecture Notes
 
-#3. [Assignments Submission](/Assignments/assignments_submission)
+# 3. [Assignments Submission](/Assignments/assignments_submission.md)
 
 
 
