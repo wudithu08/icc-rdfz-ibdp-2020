@@ -8,7 +8,7 @@ Please put your homework here :)
 
 Finish test programming upload in your projects and copy link to our course page.  -- DDL: Sunday Sep 2nd 6:00pm
 
-[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/HelenBaiEXER1.py), Hanbo Guo, Charlie Hai, David Xing, Tony Wang, 
+[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/HelenBaiEXER1.py), [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/Assignment%201.py), Charlie Hai, David Xing, Tony Wang, 
 [JerryHao](https://github.com/JerryHao2001/HAO/blob/master/IB/HW/FirstTestJerryHao)
 
 ### Homework b:
