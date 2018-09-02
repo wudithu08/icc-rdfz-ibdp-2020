@@ -66,8 +66,8 @@ https://classroom.udacity.com/courses/ud775
 
 ## Materials: 
 ### A.	Course Files  （链接到这个文件夹，会自动显示 course files文件夹里的readme.md 内容。 这个文件夹放ib相关文件，课程相关文件）
-### B.	[Assignments] (/Assignments/assignments_submission.md)
-### C.	[Lecture Notes] (/LectureNotes/index.md)
+### B.	[Assignments](/Assignments/assignments_submission.md)
+### C.	[Lecture Notes](/LectureNotes/index.md)
 ### D.	Past Papers 
 ### E.	References 
 
