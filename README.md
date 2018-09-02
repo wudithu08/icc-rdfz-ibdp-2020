@@ -55,10 +55,10 @@ https://classroom.udacity.com/courses/ud775
 ### 2.4	[D: Object-oriented programming (OOP)](/2.Options/D-%20Object-oriented%20programming%20-OOP/Intro.md)
 
 ## 3	Case Study
-### 3.1	[2016]
-### 3.2	[2017]
-### 3.3	[2018]
-### 3.4	[2019]
+### 3.1	[2016](/3.CaseStudy/2016/Intro.md)
+### 3.2	[2017](/3.CaseStudy/2017/Intro.md)
+### 3.3	[2018](/3.CaseStudy/2018/Intro.md)
+### 3.4	[2019](/3.CaseStudy/2019/Intro.md)
 
 ## 4. The solution (IA)
 ### 4.1	[Introduction & criteria]
