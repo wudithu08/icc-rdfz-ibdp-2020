@@ -49,10 +49,10 @@ https://classroom.udacity.com/courses/ud775
 ### 1.7	[Topic 7: Control](/1.Core/Topic%207-%20Control/Intro.md)
 
 ## 2	Option
-### 2.1	[A: Database]
-### 2.2	[B: Modelling and simulation]
-### 2.3	[C: Web science]
-### 2.4	[D: Object-oriented programming (OOP)]
+### 2.1	[A: Database](/2.Options/A-%20Database/Intro.md)
+### 2.2	[B: Modelling and simulation](/2.Options/B-%20Modelling%20and%20simulation/Intro.md)
+### 2.3	[C: Web science](/2.Options/C-%20Web%20science/Intro.md)
+### 2.4	[D: Object-oriented programming (OOP)](/2.Options/D-%20Object-oriented%20programming%20-OOP/Intro.md)
 
 ## 3	Case Study
 ### 3.1	[2016]
