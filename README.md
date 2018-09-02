@@ -36,9 +36,40 @@ https://guides.github.com/features/mastering-markdown/
 
 https://classroom.udacity.com/courses/ud775 
 
-# 2. [Lecture Notes](/LectureNotes/index.md)
+# 2. Course Contents
 
-# 3. [Assignments Submission](/Assignments/assignments_submission.md)
+## 1 Core
+ 
+### 1.1	Topic 1: system fundamentals 
+### 1.2	Topic 2
+### 1.3	Topic 3
+### 1.4	Topic 4
+### 1.5	Topic 5
+### 1.6	Topic 6
+### 1.7	Topic 7
+
+## 2	Option
+### 2.1	A:
+### 2.2	B:
+### 2.3	C:
+### 2.4	D:
+
+## 3	Case Study
+### 3.1	2016
+### 3.2	2017
+### 3.3	2018
+### 3.4	2019
+
+## 4. The solution (IA)
+###4.1	Introduction & criteria
+###4.2	samples
+
+## Materials: 
+### A.	Course Files  （链接到这个文件夹，会自动显示 course files文件夹里的readme.md 内容。 这个文件夹放ib相关文件，课程相关文件）
+### B.	[Assignments] (/Assignments/assignments_submission.md)
+### C.	[Lecture Notes] (/LectureNotes/index.md)
+### D.	Past Papers 
+### E.	References 
 
 
 
