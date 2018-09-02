@@ -61,15 +61,15 @@ https://classroom.udacity.com/courses/ud775
 ### 3.4	[2019](/3.CaseStudy/2019/Intro.md)
 
 ## 4. The solution (IA)
-### 4.1	[Introduction & criteria]
-### 4.2	[samples]
+### 4.1	[Introduction & criteria](/4.TheSolution-IA/Introduction%20-%20criteria/Intro.md)
+### 4.2	[samples](/4.TheSolution-IA/samples/Intro.md)
 
 ## Materials: 
 ### A.	[Course Files](/master/IB%20Files/README.md)
 ### B.	[Assignments](/Assignments/assignments_submission.md)
 ### C.	[Lecture Notes](/LectureNotes/index.md)
-### D.	[Past Papers] 
-### E.	[References] 
+### D.	[Past Papers](/PastPapers/Intro.md)
+### E.	[References](/References/Intro.md)
 
 
 
