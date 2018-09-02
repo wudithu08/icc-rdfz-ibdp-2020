@@ -43,10 +43,10 @@ https://classroom.udacity.com/courses/ud775
 ### 1.1	[Topic 1: system fundamentals](/1.Core/Topic%201-%20system%20fundamentals/Intro.md)
 ### 1.2	[Topic 2: Computer organization](/1.Core/Topic%202-%20Computer%20organization/Intro.md)
 ### 1.3	[Topic 3: Networks](/1.Core/Topic%203-%20Networks/Intro.md)
-### 1.4	[Topic 4: Computational thinking, problem-solving and programming]
-### 1.5	[Topic 5: Abstract data structure]
-### 1.6	[Topic 6: Resource management]
-### 1.7	[Topic 7: Control]
+### 1.4	[Topic 4: Computational thinking, problem-solving and programming](/1.Core/Topic%204-%20Computational%20thinking-%20problem-solving%20and%20programming/Intro.md)
+### 1.5	[Topic 5: Abstract data structure](/1.Core/Topic%205-%20Abstract%20data%20structure/Intro.md)
+### 1.6	[Topic 6: Resource management](/1.Core/Topic%206-%20Resource%20management/Intro.md)
+### 1.7	[Topic 7: Control](/1.Core/Topic%207-%20Control/Intro.md)
 
 ## 2	Option
 ### 2.1	[A: Database]
