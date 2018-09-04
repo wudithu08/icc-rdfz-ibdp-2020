@@ -17,3 +17,13 @@ Research study #1: About Git and GitHub, what it is? Why we use it (applications
 
 Helen Bai, Hanbo Guo, Charlie Hai, Jerry Hao, David Xing, Tony Wang
 
+
+## 2018.9.4
+
+### Homework:
+
+Exercise 2.14 on [openbook project](http://openbookproject.net/thinkcs/python/english3e/variables_expressions_statements.html).  -- Due TOMORROW!!!
+
+You can use either jupyter notebook (.ipynb) or python (.py)
+
+Helen Bai, Hanbo Guo, Charlie Hai, David Xing, Tony Wang, Jerry Hao
