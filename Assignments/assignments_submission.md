@@ -26,4 +26,4 @@ Exercise 2.14 on [openbook project](http://openbookproject.net/thinkcs/python/en
 
 You can use either jupyter notebook (.ipynb) or python (.py)
 
-Helen Bai, Hanbo Guo, Charlie Hai, David Xing, Tony Wang, Jerry Hao
+Helen Bai, [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/HW.py), Charlie Hai, David Xing, Tony Wang, Jerry Hao
