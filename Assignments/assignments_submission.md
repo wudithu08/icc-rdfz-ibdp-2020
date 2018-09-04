@@ -15,7 +15,7 @@ Finish test programming upload in your projects and copy link to our course page
 
 Research study #1: About Git and GitHub, what it is? Why we use it (applications)? How to use it?   -- DDL: Wed Sep 5th 6:00pm
 
-Helen Bai, Hanbo Guo, Charlie Hai, Jerry Hao, David Xing, Tony Wang
+Helen Bai, [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/%231%20GitHub%20Research.docx), Charlie Hai, Jerry Hao, David Xing, Tony Wang
 
 
 ## 2018.9.4
