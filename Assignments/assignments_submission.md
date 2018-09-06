@@ -27,3 +27,11 @@ Exercise 2.14 on [openbook project](http://openbookproject.net/thinkcs/python/en
 You can use either jupyter notebook (.ipynb) or python (.py)
 
 [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/HelenBaiEXER2.py), [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/HW.py), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/Hw%208questions%200904.ipynb), [David Xing](https://github.com/gtx1080/start/blob/master/Homework/Untitled.ipynb), Tony Wang, [Jerry Hao](https://github.com/JerryHao2001/HAO/blob/master/IB/HW/2.14exercise.ipynb)
+
+
+## 2018.9.6
+
+### Homework:
+
+[edX](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/) all works.
+Helen Bai, Hanbo Guo, Charlie Hai, David Xing, Tony Wang, Jerry Hao.
