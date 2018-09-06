@@ -29,9 +29,15 @@ You can use either jupyter notebook (.ipynb) or python (.py)
 [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/HelenBaiEXER2.py), [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/HW.py), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/Hw%208questions%200904.ipynb), [David Xing](https://github.com/gtx1080/start/blob/master/Homework/Untitled.ipynb), Tony Wang, [Jerry Hao](https://github.com/JerryHao2001/HAO/blob/master/IB/HW/2.14exercise.ipynb)
 
 
-## 2018.9.6
+## 2018.9.6  -- DDL  Sunday Sept 9, 6:00pm  
 
-### Homework:
+### Homework a:  
+edX Week1: all contents (videos and exercises) completed, problem set 1 done ( 3 problems in total)   
+>please submit your edx week 1 screenshots + your learning notes + your problem set code + book reading notes  in whatever format you like--> github personal page, paste the link on course assignment page here:  
 
-[edX](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/) all works.
-Helen Bai, Hanbo Guo, Charlie Hai, David Xing, Tony Wang, Jerry Hao.
+[edX](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/) all works. Helen Bai, Hanbo Guo, Charlie Hai, David Xing, Tony Wang, Jerry Hao.  
+### Homework b:  
+MIT book reading: chapter 1 to chapter 3.  
+
+### Homework c:  
+Next tuesday we will have a quiz (20 mins): based on edx Week 1 exercise and problem set, as well as the book you read.
