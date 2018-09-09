@@ -35,7 +35,7 @@ You can use either jupyter notebook (.ipynb) or python (.py)
 edX Week1: all contents (videos and exercises) completed, problem set 1 done ( 3 problems in total)   
 >please submit your edx week 1 screenshots + your learning notes + your problem set code + book reading notes  in whatever format you like--> github personal page, paste the link on course assignment page here:  
 
-[edX](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/) all works. [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.9.9.md), Hanbo Guo, [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/Hw(edX%20Chapter1%2BMIT%20Book%20Chapter1-3)%200909%20written%20by%20hhshhd.ipynb), [David Xing](https://github.com/gtx1080/start/tree/master/Homework), Tony Wang, Jerry Hao.  
+[edX](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/) all works. [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.9.9.md), Hanbo Guo, [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/Hw(edX%20Chapter1%2BMIT%20Book%20Chapter1-3)%200909%20written%20by%20hhshhd.ipynb), [David Xing](https://github.com/gtx1080/start/tree/master/Homework), Tony Wang, [Jerry Hao.](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week2)  
 ### Homework b:  
 MIT book reading: chapter 1 to chapter 3.  
 
