@@ -43,5 +43,5 @@ MIT book reading: chapter 1 to chapter 3.
 Next tuesday we will have a quiz (20 mins): based on edx Week 1 exercise and problem set, as well as the book you read.
 
 ## 2018.9.11 orange spell watch
-[David Xing](https://github.com/gtx1080/start/blob/master/Core/orangespellwatch.md),Helen Bai,Hanbo Guo,[Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/乘法口诀表表.ipynb),Tony Wang,Jerry Hao.
+[David Xing](https://github.com/gtx1080/start/blob/master/Core/orangespellwatch.md),[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/List/2018.9.11.md),Hanbo Guo,[Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/乘法口诀表表.ipynb),Tony Wang,Jerry Hao.
 
