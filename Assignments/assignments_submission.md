@@ -42,6 +42,6 @@ MIT book reading: chapter 1 to chapter 3.
 ### Homework c:  
 Next tuesday we will have a quiz (20 mins): based on edx Week 1 exercise and problem set, as well as the book you read.
 
-## 2018.9.6 orange spell watch
+## 2018.9.11 orange spell watch
 [David Xing](https://github.com/gtx1080/start/blob/master/Core/chengfabiao.py),Helen Bai,Hanbo Guo,Charlie Hai,Tony Wang,Jerry Hao.
 
