@@ -46,4 +46,4 @@ Next tuesday we will have a quiz (20 mins): based on edx Week 1 exercise and pro
 [David Xing](https://github.com/gtx1080/start/blob/master/Core/orangespellwatch.md),[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/List/2018.9.11.md),Hanbo Guo,[Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/乘法口诀表表.ipynb),Tony Wang,[Jerry Hao](https://github.com/JerryHao2001/HAO/tree/master/tests/classExercise/multiTable).
 
 ## 2018.9.12 Bisection-cube root + edX Lecture3 all works:
-Helen Bai, David Xing, Jerry Hao, [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/xhxh.ipynb), Tony Wang, Jerry Hao.
+Helen Bai, David Xing, Jerry Hao, [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/xhxh.ipynb), Tony Wang, [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/Bis.%20search%20-%20edx3).
