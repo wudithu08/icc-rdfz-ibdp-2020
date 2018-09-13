@@ -47,3 +47,10 @@ Next tuesday we will have a quiz (20 mins): based on edx Week 1 exercise and pro
 
 ## 2018.9.12 Bisection-cube root + edX Lecture3 all works:
 [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.9.13.md), David Xing, [Jerry Hao](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week3), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/xhxh.ipynb), Tony Wang, [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/Bis.%20search%20-%20edx3).
+
+## 2018.9.13 
+
+### Homework a:
+MIT edx video 1-5 & exercise until "power recur"
+
+Helen Bai, Hanbo Guo, Charlie Hai, David Xing, Jerry Hao, Tong Wang
