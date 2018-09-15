@@ -53,4 +53,4 @@ Next tuesday we will have a quiz (20 mins): based on edx Week 1 exercise and pro
 ### Homework a:
 MIT edx video 1-5 & exercise until "power recur"
 
-Helen Bai, Hanbo Guo, Charlie Hai, David Xing, Jerry Hao, Tong Wang
+[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Picture/topic4half.png), Hanbo Guo, Charlie Hai, David Xing, Jerry Hao, Tong Wang
