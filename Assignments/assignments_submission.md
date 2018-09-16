@@ -35,7 +35,7 @@ You can use either jupyter notebook (.ipynb) or python (.py)
 edX Week1: all contents (videos and exercises) completed, problem set 1 done ( 3 problems in total)   
 >please submit your edx week 1 screenshots + your learning notes + your problem set code + book reading notes  in whatever format you like--> github personal page, paste the link on course assignment page here:  
 
-[edX](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/) all works. [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.9.9.md), [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/6001x_W1), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/0909%20Hw%20file/0909%20Hw%20Contents.md), [David Xing](https://github.com/gtx1080/start/tree/master/Homework), Tony Wang, [Jerry Hao.](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week2)  
+[edX](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/) all works. [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.9.9.md), [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/6001x_W1), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/0909%20Hw%20file/0909%20Hw%20Contents.md), [David Xing](https://github.com/gtx1080/start/tree/master/Homework), [Tony Wang](https://github.com/wtyywty/toby/tree/master/projects）, [Jerry Hao.](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week2)  
 ### Homework b:  
 MIT book reading: chapter 1 to chapter 3.  
 
@@ -53,4 +53,4 @@ Next tuesday we will have a quiz (20 mins): based on edx Week 1 exercise and pro
 ### Homework a:
 MIT edx video 1-5 & exercise until "power recur"
 
-[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Picture/topic4half.png), Hanbo Guo, [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/Hw%20MITx%20Lecture3-.md), David Xing, [Jerry Hao](https://github.com/JerryHao2001/HAO/blob/master/IB/HW/week4/Lec4.png), Tong Wang
+[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Picture/topic4half.png), Hanbo Guo, [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/Hw%20MITx%20Lecture3-.md), David Xing, [Jerry Hao](https://github.com/JerryHao2001/HAO/blob/master/IB/HW/week4/Lec4.png), [Tong Wang](https://github.com/wtyywty/toby/tree/master/projects)
