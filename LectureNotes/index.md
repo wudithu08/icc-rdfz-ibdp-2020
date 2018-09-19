@@ -9,3 +9,4 @@ This is the links to every lecture notes.
 [4.lecture notes for 2018.9.05- Operations and objects](https://github.com/gtx1080/start/blob/master/Core/class%20notes.ipynb)
 
 [5.lecture notes for 2018.9.18- Intro to Function](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/2018.9.18-2.ipynb)
+[6.lecture notes for 2018.9.18- Function and Recursion](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/2018.9.19.ipynb)
