@@ -1,6 +1,6 @@
 Homework submission
 ====================================================================================
-Please put your homework here :)
+Please put your homework here :  )
 
 ## 2018.8.30
 
@@ -35,7 +35,7 @@ You can use either jupyter notebook (.ipynb) or python (.py)
 edX Week1: all contents (videos and exercises) completed, problem set 1 done ( 3 problems in total)   
 >please submit your edx week 1 screenshots + your learning notes + your problem set code + book reading notes  in whatever format you like--> github personal page, paste the link on course assignment page here:  
 
-[edX](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/) all works. [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.9.9.md), [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/6001x_W1), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/0909%20Hw%20file/0909%20Hw%20Contents.md), [David Xing](https://github.com/gtx1080/start/tree/master/Homework), Tony Wang, [Jerry Hao.](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week2)  
+[edX](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/) all works. [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.9.9.md), [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/6001x_W1), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/0909%20Hw%20file/0909%20Hw%20Contents.md), [David Xing](https://github.com/gtx1080/start/tree/master/Homework), [Tony Wang.](https://github.com/wtyywty/toby/tree/master/projects), [Jerry Hao.](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week2)  
 ### Homework b:  
 MIT book reading: chapter 1 to chapter 3.  
 
@@ -43,5 +43,18 @@ MIT book reading: chapter 1 to chapter 3.
 Next tuesday we will have a quiz (20 mins): based on edx Week 1 exercise and problem set, as well as the book you read.
 
 ## 2018.9.11 orange spell watch
-[David Xing](https://github.com/gtx1080/start/blob/master/Core/orangespellwatch.md),[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/List/2018.9.11.md),Hanbo Guo,[Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/乘法口诀表表.ipynb),Tony Wang,[Jerry Hao](https://github.com/JerryHao2001/HAO/tree/master/tests/classExercise/multiTable).
+[David Xing](https://github.com/gtx1080/start/blob/master/Core/orangespellwatch.md),[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/List/2018.9.11.md),[Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/mutiTable),[Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/乘法口诀表表.ipynb),Tony Wang,[Jerry Hao](https://github.com/JerryHao2001/HAO/tree/master/tests/classExercise/multiTable).
 
+## 2018.9.12 Bisection-cube root + edX Lecture3 all works:
+[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.9.13.md), David Xing, [Jerry Hao](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week3), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/xhxh.ipynb), Tony Wang, [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/Bis.%20search%20-%20edx3).
+
+## 2018.9.13 
+
+### Homework a:
+MIT edx video 1-5 & exercise until "power recur"
+
+[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Picture/topic4half.png), [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/blob/master/Trash%20Can/0916HW.png), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/Hw%20MITx%20Lecture3-.md), David Xing, [Jerry Hao](https://github.com/JerryHao2001/HAO/blob/master/IB/HW/week4/Lec4.png), [Tong Wang](https://github.com/wtyywty/toby/tree/master/projects)
+
+
+### 2018.9.19 Five Question of Recursion
+David Xing, Helen Bai, Hanbo Guo, Charlie Hai, Tony Wang, Jerry Hao, David Xiong
