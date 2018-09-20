@@ -57,4 +57,4 @@ MIT edx video 1-5 & exercise until "power recur"
 
 
 ### 2018.9.19 Five Question of Recursion
-David Xing, Helen Bai, [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/recur.py), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/turtle%20分形.ipynb), Jerry Hao, David Xiong
+David Xing, [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/Five%20Question%20of%20Recursion.py), [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/recur.py), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/turtle%20分形.ipynb), Jerry Hao, David Xiong
