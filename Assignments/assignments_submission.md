@@ -64,4 +64,4 @@ MIT edx video 1-5 & exercise until "power recur"
 ## DDL 2018.9.24
 
 ### Lec4 video + problem set + Lec5 video
-[David Xing], [Helen Bai], [Hanbo Guo], [Charlie Hai], [Jerry Hao](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week5), [David Xiong]
+[David Xing](https://github.com/gtx1080/start/blob/master/Homework/hw.docx), [Helen Bai], [Hanbo Guo], [Charlie Hai], [Jerry Hao](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week5), [David Xiong]
