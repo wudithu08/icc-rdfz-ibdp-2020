@@ -46,14 +46,14 @@ Next tuesday we will have a quiz (20 mins): based on edx Week 1 exercise and pro
 [David Xing](https://github.com/gtx1080/start/blob/master/Core/orangespellwatch.md),[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/List/2018.9.11.md),[Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/mutiTable),[Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/乘法口诀表表.ipynb),Tony Wang,[Jerry Hao](https://github.com/JerryHao2001/HAO/tree/master/tests/classExercise/multiTable).
 
 ## 2018.9.12 Bisection-cube root + edX Lecture3 all works:
-[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.9.13.md), David Xing, [Jerry Hao](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week3), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/xhxh.ipynb), Tony Wang, [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/Bis.%20search%20-%20edx3).
+[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.9.13.md), [David Xing](https://github.com/gtx1080/start/blob/master/Pictures/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(567).png), [Jerry Hao](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week3), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/xhxh.ipynb), Tony Wang, [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/Bis.%20search%20-%20edx3).
 
 ## 2018.9.13 
 
 ### Homework a:
 MIT edx video 1-5 & exercise until "power recur"
 
-[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Picture/topic4half.png), [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/blob/master/Trash%20Can/0916HW.png), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/Hw%20MITx%20Lecture3-.md), David Xing, [Jerry Hao](https://github.com/JerryHao2001/HAO/blob/master/IB/HW/week4/Lec4.png), [Tong Wang](https://github.com/wtyywty/toby/tree/master/projects)
+[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Picture/topic4half.png), [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/blob/master/Trash%20Can/0916HW.png), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/Hw%20MITx%20Lecture3-.md), [David Xing](https://github.com/gtx1080/start/blob/master/Pictures/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(568).png), [Jerry Hao](https://github.com/JerryHao2001/HAO/blob/master/IB/HW/week4/Lec4.png), [Tong Wang](https://github.com/wtyywty/toby/tree/master/projects)
 
 
 ## 2018.9.19 
