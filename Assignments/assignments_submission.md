@@ -56,5 +56,17 @@ MIT edx video 1-5 & exercise until "power recur"
 [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Picture/topic4half.png), [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/blob/master/Trash%20Can/0916HW.png), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/Hw%20MITx%20Lecture3-.md), David Xing, [Jerry Hao](https://github.com/JerryHao2001/HAO/blob/master/IB/HW/week4/Lec4.png), [Tong Wang](https://github.com/wtyywty/toby/tree/master/projects)
 
 
-### 2018.9.19 Five Question of Recursion
+## 2018.9.19 
+
+### Five Question of Recursion
 [David Xing](https://github.com/gtx1080/start/blob/master/Homework/hw4.py ), [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/Five%20Question%20of%20Recursion.py), [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/recur.py), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/turtle%20分形.ipynb), [Jerry Hao](https://github.com/JerryHao2001/HAO/blob/master/tests/recursionExercise.py), David Xiong
+
+## DDL 2018.9.24
+
+### Lec4 video + problem set + Lec5 video
+[David Xing],
+[Helen Bai],  
+[Hanbo Guo],  
+[Charlie Hai], 
+[Jerry Hao](), 
+[David Xiong]
