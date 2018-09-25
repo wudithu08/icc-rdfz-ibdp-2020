@@ -68,5 +68,5 @@ MIT edx video 1-5 & exercise until "power recur"
 
 ## 2018.9.24: File practice
 
-David Xing, Helen Bai, [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/Filepractice.py), Charlie Hai, [Jerry Hao](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week5/fileExcercise), David Xiong
+[David Xing](https://github.com/gtx1080/start/blob/master/dead.py), Helen Bai, [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/Filepractice.py), Charlie Hai, [Jerry Hao](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week5/fileExcercise), David Xiong
 
