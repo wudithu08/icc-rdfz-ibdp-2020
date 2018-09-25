@@ -64,4 +64,4 @@ MIT edx video 1-5 & exercise until "power recur"
 ## DDL 2018.9.24
 
 ### Lec4 video + problem set + Lec5 video
-[David Xing](https://github.com/gtx1080/start/blob/master/Homework/hw.docx), [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.9.24.md), [Hanbo Guo], [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/MITx%20Lecture4-5%20screenshot.ipynb), [Jerry Hao](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week5), [David Xiong]
+[David Xing](https://github.com/gtx1080/start/blob/master/Homework/hw.docx), [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.9.24.md), [Hanbo Guo], [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/MITx%20Lecture4-5%20screenshot.ipynb), [Jerry Hao](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week5), [David Xiong](https://github.com/xiongdawei/assignment/blob/master/HW%20DavidXiong.py)
