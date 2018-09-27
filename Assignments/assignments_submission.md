@@ -69,3 +69,9 @@ MIT edx video 1-5 & exercise until "power recur"
 ## 2018.9.24: File practice
 
 [David Xing](https://github.com/gtx1080/start/blob/master/dead.py),[Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/File1.py), [Hanbo Guo](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/Filepractice.py), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/file_function.py), [Jerry Hao](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week5/fileExcercise), [David Xiong](https://github.com/xiongdawei/HW-File)
+
+## 2018.9.27 
+
+### Sort Algorithms
+
+[Bubble Sort](https://github.com/JerryHao2001/HAO/blob/master/tests/bubbleSort.py), Insection Sort, Selection Sort
