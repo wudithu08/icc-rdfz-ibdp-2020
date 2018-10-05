@@ -75,3 +75,9 @@ MIT edx video 1-5 & exercise until "power recur"
 ### Sort Algorithms
 
 [Bubble Sort](https://github.com/JerryHao2001/HAO/blob/master/tests/bubbleSort.py), Insection Sort, [Selection Sort](https://github.com/gtx1080/start/blob/master/Core/0927.py)
+
+## 2018.10.7
+
+### lots of hw
+
+[Helen](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.10.5.md), Hanbo, David Xing, David Xiong, Jerry, Charlie
