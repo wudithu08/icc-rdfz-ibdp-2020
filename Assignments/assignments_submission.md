@@ -80,4 +80,4 @@ MIT edx video 1-5 & exercise until "power recur"
 
 ### lots of hw
 
-[Helen](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.10.5.md), Hanbo, David Xing, [David Xiong](https://github.com/xiongdawei/National-Hoilday-HW), Jerry, Charlie
+[Helen](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.10.5.md), [Hanbo](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/11HW), David Xing, [David Xiong](https://github.com/xiongdawei/National-Hoilday-HW), Jerry, Charlie
