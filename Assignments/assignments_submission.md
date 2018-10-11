@@ -81,3 +81,12 @@ MIT edx video 1-5 & exercise until "power recur"
 ### lots of hw
 
 [Helen](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018.10.5.md), [Hanbo](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/11HW), [David Xing](https://github.com/gtx1080/start/blob/master/Homework/1007.md), [David Xiong](https://github.com/xiongdawei/National-Hoilday-HW), [Jerry](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week6), [Charlie](https://github.com/hhshhd/hhshhd/tree/master/IB%20CS/Hw/zuoye)
+
+## 2018.10.11
+
+### 作业：
+1. 书 topic 4 174-240页都看完，把里面出现的所有程序和代码都自己写一遍（纸笔手写）。
+2. 下周二考试，内容就是topic 4.1-4.2 书上内容。 
+3. 预习edx课的 lecture 9: classes and inheritance
+
+David Xíng, David Xióng, Hanbó G, Charlie H, Helen B, Jelly H
