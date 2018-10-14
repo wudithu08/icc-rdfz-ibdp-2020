@@ -89,4 +89,4 @@ MIT edx video 1-5 & exercise until "power recur"
 2. 下周二考试，内容就是topic 4.1-4.2 书上内容。 
 3. 预习edx课的 lecture 9: classes and inheritance
 
-David Xíng, David Xióng, Hanbó G, Charlie H, Helen B, Jelly H
+David Xíng, David Xióng, Hanbó G, Charlie H, Helen B, [Jelly H](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week7)
