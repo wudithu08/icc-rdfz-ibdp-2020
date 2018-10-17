@@ -90,3 +90,11 @@ MIT edx video 1-5 & exercise until "power recur"
 3. 预习edx课的 lecture 9: classes and inheritance
 
 [David Xíng](https://github.com/gtx1080/start/blob/master/Pictures/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(645).png), [David Xióng](https://github.com/xiongdawei/HW-Oct14-2018), [Hanbó G](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/OOP.png), [Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/j.png), [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Picture/topic9.png), [Jelly H](https://github.com/JerryHao2001/HAO/tree/master/IB/HW/week7)
+
+## 2018.10.17
+
+### OOP - Class 
+
+#### class exercise
+
+David Xing, David Xiong, Hanbo G, Charlie H, Helen B, Jelly H
