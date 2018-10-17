@@ -97,4 +97,4 @@ MIT edx video 1-5 & exercise until "power recur"
 
 #### class exercise
 
-David Xing, David Xiong, Hanbo G, Charlie H, Helen B, Jelly H
+David Xing, David Xiong, Hanbo G, Charlie H,[Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/class1.py), Jelly H
