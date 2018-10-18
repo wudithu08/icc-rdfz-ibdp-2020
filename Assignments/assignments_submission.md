@@ -97,4 +97,4 @@ MIT edx video 1-5 & exercise until "power recur"
 
 #### class exercise
 
-David Xing, [David Xiong](https://github.com/xiongdawei/HW-Oct18-2018), [Hanbo G](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/classStudent.py), [Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/te.py), [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/class1.py), [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/classExcercie.py)
+[David Xing](https://github.com/gtx1080/start/blob/master/Homework/1017.py), [David Xiong](https://github.com/xiongdawei/HW-Oct18-2018), [Hanbo G](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/classStudent.py), [Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/te.py), [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/class1.py), [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/classExcercie.py)
