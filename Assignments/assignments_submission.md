@@ -103,4 +103,4 @@ MIT edx video 1-5 & exercise until "power recur"
 
 ### Pygame Eight Queen
 
-David Xing, David Xiong, Hanbo G, Charlie H, Henlen B, Jelly H
+David Xing, David Xiong, Hanbo G, Charlie H, Henlen B, [Jelly H's first draft](https://github.com/JerryHao2001/HAO/blob/master/tests/eightQueen.py)
