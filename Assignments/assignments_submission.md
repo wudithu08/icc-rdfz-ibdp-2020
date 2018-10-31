@@ -108,4 +108,4 @@ MIT edx video 1-5 & exercise until "power recur"
 ## 2018.10.31
 
 ### classExcersice - magicSquare
-[David Xing], [David Xiong], [Hanbo G](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/magic.py), [Charlie H], [Henlen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/testOct31.py), [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/magicSquare.py)
+[David Xing], [David Xiong], [Hanbo G](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/magic.py), [Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/OctTest.py), [Henlen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/testOct31.py), [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/magicSquare.py)
