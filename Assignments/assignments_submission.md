@@ -103,17 +103,17 @@ MIT edx video 1-5 & exercise until "power recur"
 
 ### Pygame Eight Queen
 
-[David Xing](https://github.com/gtx1080/start/blob/master/Homework/cvpic.rar), [David Xiong](https://github.com/xiongdawei/HW-Oct23-2018), [Hanbo G](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/Pygame1), [Charlie H](https://github.com/hhshhd/hhshhd/tree/master/IB%20CS/Hw/Queen), [Henlen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018-10-22.md), [Jelly H's first draft](https://github.com/JerryHao2001/HAO/blob/master/tests/eightQueen.py)
+[David Xing](https://github.com/gtx1080/start/blob/master/Homework/cvpic.rar), [David Xiong](https://github.com/xiongdawei/HW-Oct23-2018), [Hanbo G](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/Pygame1), [Charlie H](https://github.com/hhshhd/hhshhd/tree/master/IB%20CS/Hw/Queen), [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects&Assignments/List/2018-10-22.md), [Jelly H's first draft](https://github.com/JerryHao2001/HAO/blob/master/tests/eightQueen.py)
 
 ## 2018.10.31
 
 ### classExcersice - magicSquare
-[David Xing], [David Xiong](https://github.com/xiongdawei/Hw-Nov1-2018), [Hanbo G](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/magic.py), [Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/OctTest.py), [Henlen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/testOct31.py), [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/magicSquare.py)
+[David Xing], [David Xiong](https://github.com/xiongdawei/Hw-Nov1-2018), [Hanbo G](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/magic.py), [Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/OctTest.py), [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/testOct31.py), [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/magicSquare.py)
 
 ## 2018.11.01
 
 ### Sort Collection 
-[David Xing], [David Xiong],[Hanbo G],[Charlie H],[Henlen B],[Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/sortCollection.py)
+[David Xing], [David Xiong],[Hanbo G],[Charlie H],[Helen B],[Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/sortCollection.py)
 
 ### mini IA (criteria A & B)
-[David Xing], [David Xiong],[Hanbo G],[Charlie H],[Henlen B],[Jelly H](https://github.com/JerryHao2001/HAO/blob/master/IB/IA/GenerationAlgorithm.docx)
+[David Xing], [David Xiong],[Hanbo G],[Charlie H],[Helen B],[Jelly H](https://github.com/JerryHao2001/HAO/blob/master/IB/IA/GenerationAlgorithm.docx)
