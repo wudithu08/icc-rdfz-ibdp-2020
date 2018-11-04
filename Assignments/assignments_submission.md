@@ -113,7 +113,7 @@ MIT edx video 1-5 & exercise until "power recur"
 ## 2018.11.01
 
 ### Sort Collection 
-[David Xing], [David Xiong],[Hanbo G],[Charlie H],[Helen B],[Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/sortCollection.py)
+[David Xing], [David Xiong],[Hanbo G],[Charlie H],[Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/sorting.py),[Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/sortCollection.py)
 
 ### mini IA (criteria A & B)
-[David Xing], [David Xiong],[Hanbo G],[Charlie H],[Helen B],[Jelly H](https://github.com/JerryHao2001/HAO/blob/master/IB/IA/GenerationAlgorithm.docx)
+[David Xing], [David Xiong],[Hanbo G],[Charlie H],[Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/IA/perceptron.docx),[Jelly H](https://github.com/JerryHao2001/HAO/blob/master/IB/IA/GenerationAlgorithm.docx)
