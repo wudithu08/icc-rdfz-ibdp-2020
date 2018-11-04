@@ -116,4 +116,4 @@ MIT edx video 1-5 & exercise until "power recur"
 [David Xing], [David Xiong],[Hanbo G],[Charlie H],[Henlen B],[Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/sortCollection.py)
 
 ### mini IA (criteria A & B)
-[David Xing], [David Xiong],[Hanbo G],[Charlie H],[Henlen B],[Jelly H]
+[David Xing], [David Xiong],[Hanbo G],[Charlie H],[Henlen B],[Jelly H](https://github.com/JerryHao2001/HAO/blob/master/IB/IA/GenerationAlgorithm.docx)
