@@ -117,3 +117,9 @@ MIT edx video 1-5 & exercise until "power recur"
 
 ### mini IA (criteria A & B)
 [David Xing](https://github.com/gtx1080/start/blob/master/Homework/miniIA.md), [David Xiong](https://github.com/xiongdawei/mini-IA),[Hanbo G](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/Mini_IA),[Charlie H](https://github.com/hhshhd/hhshhd/tree/master/IB%20CS/IA/Mini%20IA),[Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/IA/perceptron.docx),[Jelly H](https://github.com/JerryHao2001/HAO/blob/master/IB/IA/GenerationAlgorithm.docx)
+
+
+## 2018.11.08
+
+### Stack class
+[David Xing],[David Xiong],[Charlie H],[Helen B],[Hanbo G],[Jelly H]
