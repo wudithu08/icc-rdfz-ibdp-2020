@@ -122,4 +122,4 @@ MIT edx video 1-5 & exercise until "power recur"
 ## 2018.11.08
 
 ### Stack class
-[David Xing],[David Xiong],[Charlie H],[Helen B],[Hanbo G],[Jelly H]
+[David Xing],[David Xiong],[Charlie H],[Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/stack.py),[Hanbo G],[Jelly H]
