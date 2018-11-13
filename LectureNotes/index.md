@@ -9,7 +9,7 @@ This is the links to every lecture notes.
 [4.lecture notes for 2018.9.18- Intro to Function](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/2018.9.18-2.ipynb)
 
 [5.lecture notes for 2018.9.19- Function and Recursion](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/2018.9.19.ipynb)
-
+[6.lecture for 2018.9.20- python分形]
 [6.lecture notes for 2018.10.11- Preview of IA & Computational Thinking and IB HL Option](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/2018.10.11.ipynb)
 
 [7.lecture notes for 2018.10.24-AI](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/Notes/2018.10.24.pdf)
