@@ -13,3 +13,5 @@ This is the links to every lecture notes.
 [6.lecture notes for 2018.10.11- Preview of IA & Computational Thinking and IB HL Option](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/2018.10.11.ipynb)
 
 [7.lecture notes for 2018.10.24-AI](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/Notes/2018.10.24.pdf)
+
+[7.lecture notes for 2018.11.14-Queue and stack and linear data structure](https://github.com/gtx1080/start/blob/master/Homework/Untitled1.ipynb)
