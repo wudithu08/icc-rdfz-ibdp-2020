@@ -132,4 +132,4 @@ MIT edx video 1-5 & exercise until "power recur"
 ## 2018.11.14
 
 ### more difficult balanced parentheses
-[David Xing](https://github.com/gtx1080/start/blob/master/Homework/stack.py),[Mr.Нет],[Charlie H],[Helen B],[Hanbo G],[Jelly H]
+[David Xing](https://github.com/gtx1080/start/blob/master/Homework/stack.py),[Mr.Нет],[Charlie H],[Helen B],[Hanbo G],[Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/stack.py)
