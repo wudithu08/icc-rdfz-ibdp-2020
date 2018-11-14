@@ -129,7 +129,7 @@ MIT edx video 1-5 & exercise until "power recur"
 ### stack reverse string + balanced parentheses
 [David Xing](https://github.com/gtx1080/start/blob/master/Homework/stack.py),[Mr.Нет](https://github.com/xiongdawei/HW-Nov14-2018/blob/master/work058.py),[Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/StackQueue.py),[Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/stack.py),[Hanbo G](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/stack_appli.py),[Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/stack.py)
 
-##2018.11.14
+## 2018.11.14
 
 ### more difficult balanced parentheses
 [David Xing](https://github.com/gtx1080/start/blob/master/Homework/stack.py),[Mr.Нет],[Charlie H],[Helen B],[Hanbo G],[Jelly H]
