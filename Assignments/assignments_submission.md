@@ -132,4 +132,4 @@ MIT edx video 1-5 & exercise until "power recur"
 ## 2018.11.14
 
 ### more difficult balanced parentheses
-[David Xing](https://github.com/gtx1080/start/blob/master/Homework/stack.py), [Mr.Нет], [Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/parChecker%20and%20converter.py), [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/stack.py), [Hanbo G](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/parChecker_and_converter.py), [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/stack.py)
+[David Xing](https://github.com/gtx1080/start/blob/master/Homework/shoot.py), [Mr.Нет], [Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/parChecker%20and%20converter.py), [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/stack.py), [Hanbo G](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/parChecker_and_converter.py), [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/stack.py)
