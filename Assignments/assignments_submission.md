@@ -137,4 +137,4 @@ MIT edx video 1-5 & exercise until "power recur"
 ## 2018.11.15
 
 ### prefix,infix and postfix
-[David Xing], [Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/postfix_infix), [David X], [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/preinpost.py), [Hanbo G], [Jelly H]
+[David Xing], [Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/postfix_infix), [David X], [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/preinpost.py), [Hanbo G](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/fixConverter.py), [Jelly H]
