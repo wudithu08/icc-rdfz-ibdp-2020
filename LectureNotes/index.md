@@ -19,3 +19,6 @@ This is the links to every lecture notes.
 [9.lecture notes for 2018.11.08-Abstract data type](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/2018.11.08.md)
 
 [10.lecture notes for 2018.11.14-Queue and stack and linear data structure](https://github.com/gtx1080/start/blob/master/Homework/Untitled1.ipynb)
+
+[11.lecture notes for 2019.11.21-Linked List]
+(https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/2018.11.21.ipynb)
