@@ -20,4 +20,6 @@ This is the links to every lecture notes.
 
 [10.lecture notes for 2018.11.14-Queue and stack and linear data structure](https://github.com/gtx1080/start/blob/master/Homework/Untitled1.ipynb)
 
-[11.lecture notes for 2019.11.21-Linked List](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/2018.11.21.ipynb)
+[11.lecture notes for 2018.11.21-Linked List](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/2018.11.21.ipynb)
+
+[12.lecture notes for 2018.11.22-Linked list](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/Notes/2018.11.22.md)
