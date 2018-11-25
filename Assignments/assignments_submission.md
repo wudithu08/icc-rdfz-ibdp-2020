@@ -143,3 +143,8 @@ MIT edx video 1-5 & exercise until "power recur"
 
 ### Linked list class
 [David Xing], [Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/Linked_list.py), [Mr.Нет](https://github.com/xiongdawei/Nov21-2018/blob/master/shuixianhua.py), [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/Linked%20list.py), [Hanbo G](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/Linked.py), [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/linklist.py)
+
+## 2018.11.23 
+
+## Mini IA (All done)
+[David Xing], [Charlie H], [Mr.Нет], [Helen B], [Hanbo G], [Jelly H]
