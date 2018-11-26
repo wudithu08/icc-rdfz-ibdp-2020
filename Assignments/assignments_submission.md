@@ -147,4 +147,4 @@ MIT edx video 1-5 & exercise until "power recur"
 ## 2018.11.23 
 
 ### Mini IA (All done)
-[David Xing], [Charlie H], [Mr.Нет], [Helen B], [Hanbo G], [Jelly H]
+[David Xing], [Charlie H], [Mr.Нет], [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/IA/perceptron.docx), [Hanbo G], [Jelly H]
