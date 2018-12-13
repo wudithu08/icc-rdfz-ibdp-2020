@@ -157,6 +157,6 @@ MIT edx video 1-5 & exercise until "power recur"
 ## 2018.12.11
 
 ### Schelling's Model of Segregation and ppt
-[David Xing](https://github.com/gtx1080/start/blob/master/Homework/segregation.py), [Charlie H](https://github.com/hhshhd/hhshhd/tree/master/IB%20CS/Hw/12.11), [Mr.Нет], [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/Segregation.py), [Hanbo G], [Jelly H]
+[David Xing](https://github.com/gtx1080/start/blob/master/Homework/segregation.py), [Charlie H](https://github.com/hhshhd/hhshhd/tree/master/IB%20CS/Hw/12.11), [Mr.Нет](https://github.com/xiongdawei/Nov21-2018/blob/master/agent%20based%20modelling.pptx), [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/Segregation.py), [Hanbo G], [Jelly H]
 
 
