@@ -167,4 +167,4 @@ MIT edx video 1-5 & exercise until "power recur"
 ## 2018.12.28
 
 ### IA 
-[David Xing], [Charlie H], [Mr.Нет], [Helen B](https://github.com/HelenBai2002Tong/Cesium/tree/master/IA), [Hanbo G], [Jelly H]
+[David Xing], [Charlie H], [Mr.Нет], [Helen B](https://github.com/HelenBai2002Tong/Cesium/tree/master/IA), [Hanbo G], [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/IB/Paper1/%2B1s.docx)
