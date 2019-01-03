@@ -168,3 +168,7 @@ MIT edx video 1-5 & exercise until "power recur"
 
 ### IA 
 [David Xing], [Charlie H], [Mr.Нет](https://github.com/xiongdawei/IA/blob/master/Computer%20science%20IA.docx), [Helen B](https://github.com/HelenBai2002Tong/Cesium/tree/master/IA), [Hanbo G], [Jelly H]
+
+## 2019.1.3
+
+### past paper： 2015 May: 1,2,4,5,8,9,11,13; Nov: 1,3,5,6,7,10,11
