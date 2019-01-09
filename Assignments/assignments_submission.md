@@ -162,7 +162,7 @@ MIT edx video 1-5 & exercise until "power recur"
 ## 2018.12.26
 
 ### final exam questions
-[David Xing], [Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/final%20exam%20questions.pages), [Mr.Нет](https://github.com/xiongdawei/Question), [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/finalexam.docx), [Hanbo G], [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/IB/Paper1/%2B1s.docx)
+[David Xing](https://github.com/gtx1080/start/blob/master/Homework/Topic%201.docx), [Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/final%20exam%20questions.pages), [Mr.Нет](https://github.com/xiongdawei/Question), [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/finalexam.docx), [Hanbo G], [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/IB/Paper1/%2B1s.docx)
 
 ## 2018.12.28
 
