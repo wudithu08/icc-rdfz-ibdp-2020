@@ -172,3 +172,8 @@ MIT edx video 1-5 & exercise until "power recur"
 ## 2019.1.3
 
 ### past paper： 2015 May: 1,2,4,5,8,9,11,13; Nov: 1,3,5,6,7,10,11
+
+## Before 2019.1.23
+
+### 爆炸的期末考试的代码实现（心态bēng了） 
+[David Xing], [Charlie H], [Mr.Нет]， [Hanbo G], [Jelly H]
