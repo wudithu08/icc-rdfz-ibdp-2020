@@ -176,4 +176,4 @@ MIT edx video 1-5 & exercise until "power recur"
 ## Before 2019.1.23
 
 ### 爆炸的期末考试的代码实现（心态bēng了） 
-[David Xing], [Charlie H], [Mr.Нет]， [Hanbo G], [Jelly H]
+[David Xing], [Charlie H], [Mr.Нет], [Hanbo G], [Jelly H]
