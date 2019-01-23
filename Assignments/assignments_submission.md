@@ -176,4 +176,4 @@ MIT edx video 1-5 & exercise until "power recur"
 ## Before 2019.1.23
 
 ### 爆炸的期末考试的代码实现（心态bēng了）
-[David Xing](https://github.com/gtx1080/start/blob/master/Homework/deadtest.py), [Charlie H], [Mr.Нет], [Hanbo G], [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/Final.py), [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/programmingpracticeforfinal.py)
+[David Xing](https://github.com/gtx1080/start/blob/master/Homework/deadtest.py), [Charlie H], [Mr.Нет](https://github.com/xiongdawei/FINAL), [Hanbo G], [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/Final.py), [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/programmingpracticeforfinal.py)
