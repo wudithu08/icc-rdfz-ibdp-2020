@@ -179,4 +179,4 @@ MIT edx video 1-5 & exercise until "power recur"
 [David Xing](https://github.com/gtx1080/start/blob/master/Homework/deadtest.py), [Charlie H](https://github.com/hhshhd/hhshhd/tree/master/IB%20CS/Hw/s2%20final), [Mr.Нет](https://github.com/xiongdawei/FINAL), [Hanbo G](https://github.com/Haannbboo/Hanbbboo/blob/master/Assignment/12.py), [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/tests/Final.py), [Helen Bai](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/programmingpracticeforfinal.py)
 
 ### CS-Business IA presentation
-[David Xing], [Charlie H], [Mr.Нет], [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/IA/IAidea.pptx), [Hanbo G], [Jelly H]
+[David Xing], [Charlie H], [Mr.Нет](https://github.com/xiongdawei/IA_Presentation), [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/IA/IAidea.pptx), [Hanbo G], [Jelly H]
