@@ -183,4 +183,4 @@ MIT edx video 1-5 & exercise until "power recur"
 
 ## 2019.3.20
 ### Topic 6 Resource Management
-[David Xing], [Charlie H], [Mr.Нет], [Helen B], [Hanbo G], [Jelly H]
+[David Xing], [Charlie H], [Mr.Нет](https://github.com/xiongdawei/assignment/blob/master/Topic%206%20Notes.docx), [Helen B], [Hanbo G], [Jelly H]
