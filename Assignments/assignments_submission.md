@@ -183,4 +183,4 @@ MIT edx video 1-5 & exercise until "power recur"
 
 ## 2019.3.20
 ### Topic 6 Resource Management
-[David Xing], [Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/resource%20management%20nonte.pdf), [Mr.Нет](https://github.com/xiongdawei/assignment/blob/master/Topic%206%20Notes.docx), [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/Notes/2019.3.20.pdf), [Hanbo G], [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/IB/Paper1/6.1Note.pdf)
+[David Xing], [Charlie H](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/resource%20management%20nonte.pdf), [Mr.Нет](https://github.com/xiongdawei/assignment/blob/master/Topic%206%20Notes.docx), [Helen B](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/Notes/2019.3.20.pdf), [Hanbo G](https://github.com/Haannbboo/Hanbbboo/tree/master/Assignment/Chapter_6), [Jelly H](https://github.com/JerryHao2001/HAO/blob/master/IB/Paper1/6.1Note.pdf)
