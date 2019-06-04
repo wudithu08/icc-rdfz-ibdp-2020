@@ -5,8 +5,8 @@ _Content Included_
 2. Automated Door - Jelly
 3. Automated Temperature Control - Helen
 4. Automated Speed Control Fan - Charlie
-5. Humidity Sensor - Mr.нет
-6. Something - David X
+5. Soil Humidity Detector - Mr.нет
+6. Pulse Sensor - David X
 
 ---
 
@@ -47,8 +47,11 @@ _Content Included_
  ## 3. Automated Temperature Control
  
  > What Why How
+ 
  >> What we need: to control the temperature for an object
+ 
  >> Why design this: to protect something that need careful temperature control, e.g: medicine, fridge
+ 
  >> Prototype: control the temperature to be +/- 2 degree celcius of the room temperature
  
  
@@ -89,4 +92,42 @@ _Content Included_
   > 7.1.5 Describe the role of feedback in a control system
   
  **PPT click this:** [Automated Speed Control Fan PPT](abc)
+ 
+## 5. Soil Humidity Detector
+
+- Why this: prevent plants dying from dehydration
+- What I need: detect humidity, alarm when the soil is dry, automated water adder
+
+- Input Sensor: humidity sensor
+- Output Tranducer:
+  - Buzzer
+  - Servo (for adding water)
+  - Digital Pipe display (to display the exact humidity)
+- Feedback: the water added by turning servo affects the input sensor, which detects the humidity
+
+- Syllabus content:
+  > 7.1.2 Outline the uses of microprocessors and sensor input in control systems
+  
+  > 7.1.4 Explain the relationship between a sensor, the processor and an output transducer
+  
+  > 7.1.5 Describe the role of feedback in a control system
+  
+ **PPT click this:** [Soil Humidity Detector PPT](abc)
+ 
+ ## 6. Pulse Sensor
+ 
+ - Background: pulse sensors (which detects heart beets) are widely used in smart watches and in some phones
+ 
+ - Input Sensor: pulse sensor
+ - Output: Image of the pulse displayed in Arduino
+ - Feedback: ninet
+ 
+ - Futuer Expectations: Connect it to other sensors and possibly the a network that alerts the medical service provider when something wrong happened
+ 
+ - Syllabus content:
+  > 7.1.2 Outline the uses of microprocessors and sensor input in control systems
+  
+  > 7.1.4 Explain the relationship between a sensor, the processor and an output transducer
+  
+ **PPT click this:** [Pulse Sensor PPT](abc)
  
