@@ -29,7 +29,7 @@
 * 算法的本质 损坏图像的修复
 * Katie Bouman 
 * Reconstract 黑洞的算法
-    ![avatar](https://github.com/JerryHao2001/HAO/blob/master/pic/min.png)
+    * ![avatar](https://github.com/JerryHao2001/HAO/blob/master/pic/min.png)
     * 最小二乘法
     * 加入正则项 处理观测噪音
     * 根据多组不同图片 机器学习优化正则项
