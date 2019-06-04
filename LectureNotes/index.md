@@ -25,3 +25,4 @@ This is the links to every lecture notes.
 [12.lecture notes for 2018.11.22-Linked list](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/Notes/2018.11.22.md)
 
 [13.lecture notes for 2019.2.28-computer architecture](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/2019.2.28.pdf)
+[14.lecture notes for topic 6](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/2019.3.20.pdf)
