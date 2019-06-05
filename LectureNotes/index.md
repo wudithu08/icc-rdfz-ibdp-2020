@@ -29,3 +29,9 @@ This is the links to every lecture notes.
 [14.lecture notes for topic 6](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/2019.3.20.pdf)
 
 [15.lecture notes for topic 7](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/2019.6.4.pdf)
+
+[16.Control unit project[Arduino](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/Control%20unit总结%20-%20Hanbo.md)
+
+[17.BlackHole](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/BlackHole.md)
+
+[18.Nine Algorithms that Changed the Future](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/LectureNotes/Nine%20Algorithms%20that%20Changed%20the%20Future.md)
