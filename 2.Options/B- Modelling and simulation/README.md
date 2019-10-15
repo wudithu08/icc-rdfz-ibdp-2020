@@ -1,3 +1,4 @@
+##Topic : Neutral Networks
 ### The first introduction you should learn:
 *  https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
 
@@ -11,3 +12,5 @@
 * convnetjs: https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html 
 * sklearn:  https://scikit-learn.org/dev/modules/neural_networks_supervised.html 
 
+### movan python --NN tutorial:
+* https://morvanzhou.github.io/tutorials/machine-learning/torch/ 
