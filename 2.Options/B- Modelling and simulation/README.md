@@ -16,7 +16,7 @@
 * https://morvanzhou.github.io/tutorials/machine-learning/torch/ 
 
 ### past paper examples:
-* shimo.io link for GA 
+* [shimo.io link](https://shimo.im/docs/Kqqrwd8g33DJhVWk) for GA 
 * shimo.io link for NN
 
 
