@@ -17,3 +17,10 @@
 
 ### past paper examples:
 * on shimo.io
+
+
+### homework about CNN -- DDL 20191022 8am 
+* write your own CNN for hand-written digits recognition and visualize it using tools:
+* reference, deep learning framework: https://keras.io/examples/mnist_cnn/   
+* reference, visualize the NN: http://ethereon.github.io/netscope/#/editor
+submit your code and screenshots here: Helen, Jerry, Hanbo, David Xing, David Xiong, Charlie Hai
