@@ -26,4 +26,4 @@
 * reference, deep learning framework: https://keras.io/examples/mnist_cnn/   
 * reference, visualize the NN: http://ethereon.github.io/netscope/#/editor
 
-submit your code and screenshots here: Helen, Jerry, Hanbo, David Xing, David Xiong, Charlie Hai
+submit your code and screenshots here: Helen, [Jerry](https://github.com/JerryHao2001/HAO/blob/master/tests/CNN/CNN.py), Hanbo, David Xing, David Xiong, Charlie Hai
