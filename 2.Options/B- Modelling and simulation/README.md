@@ -1,3 +1,14 @@
+## Topic: Natural Language processing NLP
+### The Stanford Course you should take a look at
+* https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/index.html  (2017 version)
+* https://web.stanford.edu/class/cs224n/ (2019 version)
+
+### Some useful webpage 
+* NLTK: http://www.nltk.org/book/   (Natural Language Processing with Python)
+* http://www.52nlp.cn/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%AC%AC%E4%B8%80%E8%AE%B2%E5%BC%95%E8%A8%80
+* http://www.52nlp.cn/natural-language-processing-and-machine-translation-faq
+
+
 ##Topic : Neutral Networks
 ### The first introduction you should learn:
 *  https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
