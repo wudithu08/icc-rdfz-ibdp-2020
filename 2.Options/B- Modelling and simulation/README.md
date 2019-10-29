@@ -1,4 +1,6 @@
 ## Topic: Natural Language processing NLP
+### past paper question related to NLP
+* https://shimo.im/docs/C3GgP3Xkg3jCkghq/ 「natural languague processing NLP」past paper 共享文档
 ### The Stanford Course you should take a look at
 * https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/index.html  (2017 version)
 * https://web.stanford.edu/class/cs224n/ (2019 version)
@@ -9,7 +11,7 @@
 * http://www.52nlp.cn/natural-language-processing-and-machine-translation-faq
 
 
-##Topic : Neutral Networks
+## Topic : Neutral Networks
 ### The first introduction you should learn:
 *  https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
 
