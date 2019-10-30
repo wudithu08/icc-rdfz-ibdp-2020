@@ -1,7 +1,8 @@
 ## Topic: unsupervised learning -- clustering-Kmeans
 *  [slides you can refer to](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/2.Options/B-%20Modelling%20and%20simulation/files/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E2%80%94%E2%80%94%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%AC%AC4%E6%AC%A1%E8%AF%BEv1.pdf)
 * [NBA player data](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/2.Options/B-%20Modelling%20and%20simulation/files/nba_2013.csv)
-* [lmean online demo](http://stanford.edu/class/ee103/visualizations/kmeans/kmeans.html) , [download demo] (https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/2.Options/B-%20Modelling%20and%20simulation/files/k-means%20demo%20%E4%B8%8B%E8%BD%BD%E7%BD%91%E9%A1%B5%E7%89%88-20191030.zip)
+* [kmeans online demo](http://stanford.edu/class/ee103/visualizations/kmeans/kmeans.html) 
+* [download demo](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/2.Options/B-%20Modelling%20and%20simulation/files/k-means%20demo%20%E4%B8%8B%E8%BD%BD%E7%BD%91%E9%A1%B5%E7%89%88-20191030.zip)
 * homework task: write your own kmeans algorithm to cluster NBA players. Submit your report with code below:
 
 Helen, Jerry, Hanbo, David Xing, Charlie, David Xiong
