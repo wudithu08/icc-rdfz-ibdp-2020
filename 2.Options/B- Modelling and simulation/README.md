@@ -5,7 +5,13 @@
 ### [Learn Computer Graphics From Scratch!](https://www.scratchapixel.com/)
 ### [python+opengl显示三维模型小程序](https://my.oschina.net/u/3018050/blog/1808448)
 ### [Stanford Computer graphics course](https://web.stanford.edu/class/cs148/lectures.html)
+####  project for 20191106:  
+*  Please read [2018计算机图形学研究报告], [计算机图形学导论], [Stanford Computer graphics course] to write a summary of computer graphics and visualization. 
+*  Please refer to [Rendering Pipeline Overview], [Learn Computer Graphics From Scratch!], [python+opengl显示三维模型小程序] to create a toy demo of 3D rendering. 
 
+Please submit your code and result screenshots here: 
+
+Helen, Jerry, Hanbo, David Xing, David Xiong, Charlie
 
 ## Topic: unsupervised learning -- clustering-Kmeans
 *  [slides you can refer to](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/2.Options/B-%20Modelling%20and%20simulation/files/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E2%80%94%E2%80%94%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%AC%AC4%E6%AC%A1%E8%AF%BEv1.pdf)
