@@ -41,6 +41,7 @@
 ### past paper examples:
 * [shimo.io link](https://shimo.im/docs/Kqqrwd8g33DJhVWk) for GA 
 * [shimo.io link](https://shimo.im/docs/X8kvTG6PRvdgKd3y) for NN
+* [shimo.io link](https://shimo.im/docs/tWDKDVyRvpQDdvCK) for Visualization
 
 
 
