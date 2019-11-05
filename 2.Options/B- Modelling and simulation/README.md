@@ -9,7 +9,7 @@
 * [Stanford Computer graphics course](https://web.stanford.edu/class/cs148/lectures.html)
 *  project for 20191106:  
 
-1. Please read [2018计算机图形学研究报告], [计算机图形学导论], [Stanford Computer graphics course] to write a summary of computer graphics and visualization. 
+1. Please read [2018计算机图形学研究报告], [计算机图形学导论], [Stanford Computer graphics course] to write a summary of computer graphics and visualization, including your understanding of the key terms.
 
 2. Please refer to [Rendering Pipeline Overview], [Learn Computer Graphics From Scratch!], [python+opengl显示三维模型小程序] to create a toy demo of 3D rendering. 
 
