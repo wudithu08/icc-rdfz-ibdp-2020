@@ -5,7 +5,7 @@
 * [download demo](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/2.Options/B-%20Modelling%20and%20simulation/files/k-means%20demo%20%E4%B8%8B%E8%BD%BD%E7%BD%91%E9%A1%B5%E7%89%88-20191030.zip)
 * homework task: write your own kmeans algorithm to cluster NBA players. Submit your report with code below:
 
-[Helen](https://github.com/HelenBai2002Tong/Cesium/tree/master/Option), [Jerry](https://github.com/JerryHao2001/HAO/blob/master/tests/k_means_NBA.py), Hanbo, David Xing, Charlie, David Xiong
+[Helen](https://github.com/HelenBai2002Tong/Cesium/tree/master/Option), [Jerry](https://github.com/JerryHao2001/HAO/blob/master/tests/k_means_NBA.py), Hanbo, David Xing, [Charlie](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/kmeans.py), David Xiong
 
 
 ## Topic: Natural Language processing NLP
