@@ -49,5 +49,5 @@
 * reference, deep learning framework: https://keras.io/examples/mnist_cnn/   
 * reference, visualize the NN: http://ethereon.github.io/netscope/#/editor
 
-submit your code and screenshots here: [Helen](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/NNKeras1.py), [Jerry](https://github.com/JerryHao2001/HAO/blob/master/tests/CNN/CNN.py), [Hanbo](https://github.com/Haannbboo/Hanbbboo/blob/master/2.%20Option/mnist.py), David Xing, David Xiong, [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/kmeans.py)
+submit your code and screenshots here: [Helen](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/NNKeras1.py), [Jerry](https://github.com/JerryHao2001/HAO/blob/master/tests/CNN/CNN.py), [Hanbo](https://github.com/Haannbboo/Hanbbboo/blob/master/2.%20Option/mnist.py), David Xing, [David] Xiong(https://github.com/xiongdawei/Automatic-Schedule-Generator/blob/master/Homework/handwritting.py), [Charlie Hai](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/kmeans.py)
 ![Helen's](https://github.com/HelenBai2002Tong/Cesium/blob/master/Picture/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191022015518.png)
