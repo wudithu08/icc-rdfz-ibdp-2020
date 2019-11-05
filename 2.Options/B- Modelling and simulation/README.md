@@ -1,15 +1,15 @@
 ## Topic: Visualization 
-### [2018计算机图形学研究报告]( https://zhuanlan.zhihu.com/p/42717450 )
-### [计算机图形学导论](https://zhuanlan.zhihu.com/p/46620260)
-### [Rendering Pipeline Overview](https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview)
-### [Learn Computer Graphics From Scratch!](https://www.scratchapixel.com/)
-### [python+opengl显示三维模型小程序](https://my.oschina.net/u/3018050/blog/1808448)
-### [Stanford Computer graphics course](https://web.stanford.edu/class/cs148/lectures.html)
-####  project for 20191106:  
-*  Please read [2018计算机图形学研究报告], [计算机图形学导论], [Stanford Computer graphics course] to write a summary of computer graphics and visualization. 
-*  Please refer to [Rendering Pipeline Overview], [Learn Computer Graphics From Scratch!], [python+opengl显示三维模型小程序] to create a toy demo of 3D rendering. 
+* [2018计算机图形学研究报告]( https://zhuanlan.zhihu.com/p/42717450 )
+* [计算机图形学导论](https://zhuanlan.zhihu.com/p/46620260)
+* [Rendering Pipeline Overview](https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview)
+* [Learn Computer Graphics From Scratch!](https://www.scratchapixel.com/)
+* [python+opengl显示三维模型小程序](https://my.oschina.net/u/3018050/blog/1808448)
+* [Stanford Computer graphics course](https://web.stanford.edu/class/cs148/lectures.html)
+*  project for 20191106:  
+*  1. Please read [2018计算机图形学研究报告], [计算机图形学导论], [Stanford Computer graphics course] to write a summary of computer graphics and visualization. 
+*  2. Please refer to [Rendering Pipeline Overview], [Learn Computer Graphics From Scratch!], [python+opengl显示三维模型小程序] to create a toy demo of 3D rendering. 
 
-Please submit your code and result screenshots here: 
+Please submit your summary report + code + result screenshots here: 
 
 Helen, Jerry, Hanbo, David Xing, David Xiong, Charlie
 
