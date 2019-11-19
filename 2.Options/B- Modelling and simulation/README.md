@@ -1,6 +1,28 @@
 ##  Topic: Visualization 
 ###  Key terms: understand the concept (mathematical details are not required) of rendering and be familiar with the terms wireframing, ray tracing, lighting, key frame, mapping, texture, 3D animation.
 
+### CG project: use blender to create your own 3D animation, key points-- visualization and rendering. 
+* ddl: 20191121 we will check in class.
+
+* Project requirements:
+1. create your own 3D model (geometry model), show your model in wire framing
+
+2. add texture to your 3D model, try to use image based texture mapping 
+
+3. add light to your scene 
+
+4. set camera for scene observation
+
+5. let your model move (e.g., if it is a person, let person run, if it is a object, let it deform), use key frames, create 3D animation
+
+6. use ray tracing to render your own 3D animation.
+
+* please record evidence for each of the above requirement. Your submission need to contain: (a) your animation video (b) a report contains all the steps above that can demonstrate how you did your project. 
+
+Please submit your animation+report here: Helen, Hanbo, David Xing, David Xiong, Charlie, Jerry
+
+NOTE: the more realistic, the better. 
+
 * [2018计算机图形学研究报告]( https://zhuanlan.zhihu.com/p/42717450 )
 * [计算机图形学导论](https://zhuanlan.zhihu.com/p/46620260)
 * [Rendering Pipeline Overview](https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview)
