@@ -21,7 +21,9 @@
 
 Please submit your animation+report here: Helen, Hanbo, David Xing, David Xiong, Charlie, Jerry
 
-NOTE: the more realistic, the better. 
+*   NOTE: the more realistic, the better. 
+--------------------------------------------------------------------------------------------------------------
+
 
 * [2018计算机图形学研究报告]( https://zhuanlan.zhihu.com/p/42717450 )
 * [计算机图形学导论](https://zhuanlan.zhihu.com/p/46620260)
