@@ -19,7 +19,7 @@
 
 * please record evidence for each of the above requirement. Your submission need to contain: (a) your animation video (b) a report contains all the steps above that can demonstrate how you did your project. 
 
-Please submit your animation+report here: [Helen](https://github.com/HelenBai2002Tong/Cesium/tree/master/Option/BLENDER), Hanbo, David Xing, David Xiong, [Charlie](https://github.com/hhshhd/hhshhd/tree/master/IB%20CS/Hw/Blender_Smoke), Jerry
+Please submit your animation+report here: [Helen](https://github.com/HelenBai2002Tong/Cesium/tree/master/Option/BLENDER), Hanbo, David Xing, [David Xiong](https://github.com/xiongdawei/assignment/blob/master/3D_Blender/video.md), [Charlie](https://github.com/hhshhd/hhshhd/tree/master/IB%20CS/Hw/Blender_Smoke), Jerry
 
 *   NOTE: the more realistic, the better. 
 --------------------------------------------------------------------------------------------------------------
