@@ -11,6 +11,8 @@ implement the question in the paper, submit your
 * code (or spreadsheet file)  with 
 * a document(have screenshots of results for each questions)
 
+Please submit your work: Helen, Hanbo, David Xing, David Xiong, Charlie, Jerry
+
 
 ##  Topic: Visualization 
 ###  Key terms: understand the concept (mathematical details are not required) of rendering and be familiar with the terms wireframing, ray tracing, lighting, key frame, mapping, texture, 3D animation.
