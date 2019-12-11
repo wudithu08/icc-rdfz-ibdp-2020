@@ -11,7 +11,7 @@ implement the question in the paper, submit your
 * code (or spreadsheet file)  with 
 * a document(have screenshots of results for each questions)
 
-Please submit your work: Helen, Hanbo, David Xing, David Xiong, Charlie, Jerry
+Please submit your work: [Helen](https://github.com/HelenBai2002Tong/Cesium/tree/master/Projects%26Assignments/OptionB_Realization), Hanbo, David Xing, David Xiong, Charlie, Jerry
 
 
 ##  Topic: Visualization 
