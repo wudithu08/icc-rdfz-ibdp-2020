@@ -1,3 +1,11 @@
+## SA - practical for Option B modelling and simulation
+* Game: 14M-6, 15N-6, 17M-5
+* Population growth: 16N-5, 14N-6
+* Climate chage: 19M-5
+* Finace  17N-6 and GDP-5
+
+
+
 ##  Topic: Visualization 
 ###  Key terms: understand the concept (mathematical details are not required) of rendering and be familiar with the terms wireframing, ray tracing, lighting, key frame, mapping, texture, 3D animation.
 
