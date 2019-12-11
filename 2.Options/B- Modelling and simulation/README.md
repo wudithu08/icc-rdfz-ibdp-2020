@@ -1,9 +1,15 @@
 ## SA - practical for Option B modelling and simulation
-* Game: 14M-6, 15N-6, 17M-5
-* Population growth: 16N-5, 14N-6
-* Climate chage: 19M-5
-* Finace  17N-6 and GDP-5
+* Game: 14M-6, 15N-6, 17M-5, option A: 14M-6 and 17M-5, option B: 15N-6 (you can use either python or spreadsheet)
+* Population growth: 16N-5, 14N-6 (use spreadsheet)
+* Climate chage: 19M-5 (you can use either python or spreadsheet)
+* Finace  17N-6 and GDP-5 (use spreadsheet)
 
+Requirement:
+
+implement the question in the paper, submit your 
+
+* code (or spreadsheet file)  with 
+* a document(have screenshots of results for each questions)
 
 
 ##  Topic: Visualization 
