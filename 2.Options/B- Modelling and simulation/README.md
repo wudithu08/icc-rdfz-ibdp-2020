@@ -11,7 +11,7 @@ implement the question in the paper, submit your
 * code (or spreadsheet file)  with 
 * a document(have screenshots of results for each questions)
 
-Please submit your work: [Helen](https://github.com/HelenBai2002Tong/Cesium/tree/master/Projects%26Assignments/OptionB_Realization), Hanbo, [David Xing](https://github.com/gtx1080/start/blob/master/Option/bug.xlsx),[David Xing](https://github.com/gtx1080/start/blob/master/Option/game.py), David Xiong, [Charlie](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/OptionB%20spreadsheet_Charlie%20Hai.xlsx), [Jerry](https://github.com/JerryHao2001/HAO/tree/master/IB/Paper3/Summative)
+Please submit your work: [Helen](https://github.com/HelenBai2002Tong/Cesium/tree/master/Projects%26Assignments/OptionB_Realization), Hanbo, [David Xing](https://github.com/gtx1080/start/blob/master/Option/bug.xlsx),[David Xing](https://github.com/gtx1080/start/blob/master/Option/game.py), [David Xiong](https://github.com/xiongdawei/assignment/tree/master/SA), [Charlie](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/OptionB%20spreadsheet_Charlie%20Hai.xlsx), [Jerry](https://github.com/JerryHao2001/HAO/tree/master/IB/Paper3/Summative)
 
 
 ##  Topic: Visualization 
