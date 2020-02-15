@@ -8,7 +8,7 @@
 * [past paper 2015 May P1](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2015%20May%20Examination%20Session/) 2,4,5,8,9a,11,13
 #### 2020 Feb 17: Topic 4+5
 * [Guide Content](http://xmltwo.ibo.org/publications/DP/Group5/d_5_comsc_gui_1201_1/html/67.207.142.65/exist/rest/app/gui.xql@doc=d_5_comsc_gui_1201_1_e&part=2&chapter=3.html) 4.3 
-* [past paper 2015 Nov P1] (https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2015%20November%20Examination%20Session/)   6,7,13,14,15
+* [past paper 2015 Nov P1] (https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2015%20November%20Examination%20Session/)   3,5,6,10,11
 * [past paper 2016 May P1](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2016%20May%20Examination%20Session/) 4,5,6,13,14,15
 * [past paper 2016 Nov P1](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2016%20November%20Examination%20Session/) 4,6,7,9,11,12
 
