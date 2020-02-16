@@ -13,5 +13,11 @@
 * [past paper 2016 Nov P1](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2016%20November%20Examination%20Session/) 4,6,7,9,11,12
 
 #### 2020 Feb 18: case study 
-*  https://ibpublishing.ibo.org/live-exist/rest/app/tsm.xql?doc=d_4_comsc_tsm_1201_2_e&part=3&chapter=7 
-
+* Case study material
+* https://ibpublishing.ibo.org/live-exist/rest/app/tsm.xql?doc=d_4_comsc_tsm_1201_2_e&part=3&chapter=7 
+* https://www.coursera.org/learn/wharton-cryptocurrency-blockchain-introduction-digital-currency 
+* https://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system
+* http://bitcoin-on-nodejs.ebookchain.org/
+* https://yeasy.gitbooks.io/blockchain_guide/content/
+* Blockchain Basics 《区块链基础知识25讲》中文版书
+* Blockchain Basics 英文版
