@@ -1,4 +1,6 @@
 * [semester plan](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/2020-SpringSemester/S3IBHL.docx) 
+* [Approved notation for developing pseudocode](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/2020-SpringSemester/Approved%20notation%20for%20developing%20pseudocode.pdf)
+* [Pseudocode in Examinations](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/2020-SpringSemester/Pseudocode%20in%20Examinations.PDF)
 
 ### Week1: 2020 Feb 15-19
 #### 2020 Feb 18: Topic 4+5
