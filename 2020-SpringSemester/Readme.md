@@ -2,6 +2,8 @@
 * [Approved notation for developing pseudocode](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/2020-SpringSemester/Approved%20notation%20for%20developing%20pseudocode.pdf)
 * [Pseudocode in Examinations](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/2020-SpringSemester/Pseudocode%20in%20Examinations.PDF)
 
+* [Topic 4+5 review booklet (shared doc)](https://shimo.im/sheets/YqC3xHy3GRhcCyhT/MODOC)
+
 ### Week1: 2020 Feb 15-19
 #### 2020 Feb 18: Topic 4+5
 * [Guide Content](http://xmltwo.ibo.org/publications/DP/Group5/d_5_comsc_gui_1201_1/html/67.207.142.65/exist/rest/app/gui.xql@doc=d_5_comsc_gui_1201_1_e&part=2&chapter=3.html) 4.1 + 4.2 
