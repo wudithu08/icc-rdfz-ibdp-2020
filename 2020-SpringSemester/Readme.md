@@ -9,7 +9,7 @@
 * [Guide Content](http://xmltwo.ibo.org/publications/DP/Group5/d_5_comsc_gui_1201_1/html/67.207.142.65/exist/rest/app/gui.xql@doc=d_5_comsc_gui_1201_1_e&part=2&chapter=3.html) 4.1 + 4.2 
 * [past paper 2014 May P1](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2014%20May%20Examination%20Session/Computer_science_paper_1_HL.pdf)   6,7,13,14,15 
 * * Homework 2014 May P1 Q14 -- draw N generations of H using both iteration and recursion. Note: Use python turtle for drawing 
-* * submit your code and screenshots here: [Helen](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/DrawH.py), [Jerry](https://github.com/JerryHao2001/HAO/blob/master/tests/H.py), Charlie, Hanbo, [David Xing](https://github.com/gtx1080/start/blob/master/Homework/drwah.py), David Xiong
+* * submit your code and screenshots here: [Helen](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/DrawH.py), [Jerry](https://github.com/JerryHao2001/HAO/blob/master/tests/H.py), [Charlie](https://github.com/hhshhd/hhshhd/blob/master/IB%20CS/Hw/HHHH.py), Hanbo, [David Xing](https://github.com/gtx1080/start/blob/master/Homework/drwah.py), David Xiong
 * [past paper 2014 Nov P1](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2014%20November%20Examination%20Session/Computer_science_paper_1_HL.pdf) 3,4,5,6,7,11,12,14
 * [past paper 2015 May P1](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2015%20May%20Examination%20Session/) 2,4,5,8,9a,11,13
 #### 2020 Feb 19: Topic 4+5
