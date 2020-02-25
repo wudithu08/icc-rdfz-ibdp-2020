@@ -14,7 +14,7 @@
 #### 2020 Feb 26: Option B
 * [past paper 2019 May P2](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2019%20May%20Examination%20Session/) all option B
 * [past paper 2018 Nov P2](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2018%20November%20Examination%20Session/) all option B
-
+* [unsupervised learning material](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/unsupervised.pdf)
 
 #### 2020 Feb 27: Case Study
 * P3 practice: https://shimo.im/docs/xy6k6vhrh8w9qX6t/ 「Paper-3 Practise Exam  2020-02-25」
