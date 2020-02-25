@@ -18,6 +18,7 @@
 
 #### 2020 Feb 27: Case Study
 * P3 practice: https://shimo.im/docs/xy6k6vhrh8w9qX6t/ 「Paper-3 Practise Exam  2020-02-25」
+* [Khan Academy video resources](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it)
 
 
 ### Week1: 2020 Feb 15-19
