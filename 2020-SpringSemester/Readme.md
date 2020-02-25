@@ -7,7 +7,7 @@
 ### Week2: 2020 Feb 24-28
 #### 2020 Feb 25: Topic 4+5
 * [past paper 2017 May P1](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2017%20May%20Examination%20Session/)  9,10,13,14cde, 15 [Charlie + Hanbo]
-* [past paper 2017 Nov P1](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2017%20November%20Examination%20Session/)6,10e,13,14 [Helen+ Jerry]
+* [past paper 2017 Nov P1](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2017%20November%20Examination%20Session/) 6,10e,13,14 [Helen+ Jerry]
 * [past paper 2018 May P1](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2018%20May%20Examination%20Session/) 6,7,8,9,12abc,13,15 [David + David ]
 
 
