@@ -9,6 +9,8 @@
 #### 2020 Mar 3: Topic 2+6
 
 
+* homework: (past paper 18N)[https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2018%20November%20Examination%20Session/Computer_science_paper_1__HL.pdf]  Q 3,6,7,8,9,11,12 write them on the answer sheet. Mark by yourself and reflect on all of them. Then write python code to implement Q12.    ddl: Mar 3 10pm.
+
 #### 2020 Mar 4: Topic 2+6
 
 
