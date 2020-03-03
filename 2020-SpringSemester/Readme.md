@@ -3,11 +3,11 @@
 * [Pseudocode in Examinations](https://github.com/wudithu08/icc-rdfz-ibdp-2020/blob/master/2020-SpringSemester/Pseudocode%20in%20Examinations.PDF)
 
 * [Topic 4+5 review booklet (shared doc)](https://shimo.im/sheets/YqC3xHy3GRhcCyhT/MODOC)
-
+* [Topic 2+6 review booklet (shared doc)](https://shimo.im/sheets/rWQxrvRyqhd6YJ6r/MODOC/)
 
 ### Week2: 2020 Mar 2-6
 #### 2020 Mar 3: Topic 2+6
-
+*  https://shimo.im/sheets/rWQxrvRyqhd6YJ6r/MODOC/ 「CS HL topic 2+6」，可复制链接后用石墨文档 App 或小程序打开  
 
 * homework: [past paper 18N](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2018%20November%20Examination%20Session/Computer_science_paper_1__HL.pdf)  Q 3,6,7,8,9,11,12 write them on the answer sheet. Mark by yourself and reflect on all of them. Then write python code to implement Q12.    ddl: Mar 3 10pm.
 
