@@ -4,6 +4,19 @@
 
 * [Topic 4+5 review booklet (shared doc)](https://shimo.im/sheets/YqC3xHy3GRhcCyhT/MODOC)
 
+
+### Week2: 2020 Mar 2-6
+#### 2020 Mar 3: Topic 2+6
+
+
+#### 2020 Mar 4: Topic 2+6
+
+
+#### 2020 Mar 5: Case Study
+
+
+
+
 ### Week2: 2020 Feb 24-28
 #### 2020 Feb 25: Topic 4+5
 * [past paper 2017 May P1](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2017%20May%20Examination%20Session/)  9,10,13,14cde, 15 [Charlie + Hanbo]
