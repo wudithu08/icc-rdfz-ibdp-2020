@@ -13,11 +13,12 @@
 
 #### 2020 Mar 4: Topic 2+6
 
+* homework: [past paper 19M](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2019%20May%20Examination%20Session/Computer_science_paper_1__HL.pdf)   Q 1,2,3,4,5,6,7,11,12,14abc,15,16ab.  Write them on the answer sheet. Mark by yourself and reflect on all of them. Then write python code to implement Q15.    ddl: Mar 5 8am.
 
 #### 2020 Mar 5: Case Study
 
-
-
+* homework: [past paper 19N](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2019%20November%20Examination%20Session/Computer_science_paper_1__HL.pdf) Q 2,3,4,5,6,7,8,11ab,12,13.
+Write them on the answer sheet. Mark by yourself and reflect on all of them. Then write python code to implement Q13.    ddl: Mar8 6pm.
 
 ### Week2: 2020 Feb 24-28
 #### 2020 Feb 25: Topic 4+5
