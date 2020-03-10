@@ -5,7 +5,30 @@
 * [Topic 4+5 review booklet (shared doc)](https://shimo.im/sheets/YqC3xHy3GRhcCyhT/MODOC)
 * [Topic 2+6 review booklet (shared doc)](https://shimo.im/sheets/rWQxrvRyqhd6YJ6r/MODOC/)
 
-### Week2: 2020 Mar 2-6
+### Week4: 2020 Mar 9-13
+#### 2020 Mar 10: Topic 2+6
+*  https://shimo.im/sheets/rWQxrvRyqhd6YJ6r/MODOC/ 「CS HL topic 2+6」，可复制链接后用石墨文档 App 或小程序打开  
+* focus on Topic 6
+* Homework-- prepare for Wed lesson about option B: [Past paper 19N P2](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2019%20November%20Examination%20Session/Computer_science_paper_2__HL.pdf)  
+write all opiton B questions. ddl: Mar 10  22:00pm
+
+
+#### 2020 Mar 11: Option B
+* homework 1: summarize 19N paper 2 opiton B in details, write your reflection and submit to me. 
+* homework 2: [past paper 18M](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2018%20May%20Examination%20Session/Computer_science_paper_1__HL.pdf)   Q 2,3,4,5,6,7,8,9,12abc,13,15. Write all the answers on the paper and submit the scanned version to wechat group. Implement Q15 in python and submit your code below.    ddl: Mar 14 6pm.
+* Submit your code here: Helen,Jerry,Charlie, Hanbo, David Xing, David Xiong
+
+#### 2020 Mar 12: Case Study
+* https://shimo.im/docs/xy6k6vhrh8w9qX6t
+* https://shimo.im/docs/vtWJDrYhVGVWhy6p
+* https://shimo.im/docs/Cyjvth9WJwTxdpHY 
+* https://shimo.im/docs/CpX9VCwH9pRrgkTQ
+* homework: [past paper 17N](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2017%20November%20Examination%20Session/Computer_science_paper_1__HL.pdf) Q 1,4,5,6,7,8,10e,13,14.
+Write them on the answer sheet. Mark by yourself and reflect on all of them. Then write python code to implement Q14.    ddl: Mar15 6pm.
+* Submit your code here: Helen,Jerry,Charlie, Hanbo, David Xing, David Xiong
+
+
+### Week3: 2020 Mar 2-6
 #### 2020 Mar 3: Topic 2+6
 *  https://shimo.im/sheets/rWQxrvRyqhd6YJ6r/MODOC/ 「CS HL topic 2+6」，可复制链接后用石墨文档 App 或小程序打开  
 
