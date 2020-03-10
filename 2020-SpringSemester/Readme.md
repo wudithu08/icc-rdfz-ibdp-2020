@@ -33,18 +33,18 @@ Write them on the answer sheet. Mark by yourself and reflect on all of them. The
 *  https://shimo.im/sheets/rWQxrvRyqhd6YJ6r/MODOC/ 「CS HL topic 2+6」，可复制链接后用石墨文档 App 或小程序打开  
 
 * homework: [past paper 18N](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2018%20November%20Examination%20Session/Computer_science_paper_1__HL.pdf)  Q 3,6,7,8,9,11,12 write them on the answer sheet. Mark by yourself and reflect on all of them. Then write python code to implement Q12.    ddl: Mar 3 10pm.
-* Submit your code here: Helen,[Jerry](https://github.com/JerryHao2001/HAO/blob/master/tests/2018Nov.py),Charlie, Hanbo, David Xing, David Xiong
+* Submit your code here: [Helen](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/18Nov12.py),[Jerry](https://github.com/JerryHao2001/HAO/blob/master/tests/2018Nov.py),Charlie, Hanbo, David Xing, David Xiong
 
 #### 2020 Mar 4: Topic 2+6
 
 * homework: [past paper 19M](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2019%20May%20Examination%20Session/Computer_science_paper_1__HL.pdf)   Q 1,2,3,4,5,6,7,11,12,14abc,15,16ab.  Write them on the answer sheet. Mark by yourself and reflect on all of them. Then write python code to implement Q15.    ddl: Mar 8 6pm.
-* Submit your code here: Helen,[Jerry](https://github.com/JerryHao2001/HAO/blob/master/tests/2019May.py),Charlie, Hanbo, David Xing, David Xiong
+* Submit your code here: [Helen](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/19May15.py),[Jerry](https://github.com/JerryHao2001/HAO/blob/master/tests/2019May.py),Charlie, Hanbo, David Xing, David Xiong
 
 #### 2020 Mar 5: Case Study
 
 * homework: [past paper 19N](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2019%20November%20Examination%20Session/Computer_science_paper_1__HL.pdf) Q 2,3,4,5,6,7,8,11ab,12,13.
 Write them on the answer sheet. Mark by yourself and reflect on all of them. Then write python code to implement Q13.    ddl: Mar8 6pm.
-* Submit your code here: Helen,[Jerry](https://github.com/JerryHao2001/HAO/blob/master/tests/2019Nov.py),Charlie, Hanbo, David Xing, David Xiong
+* Submit your code here: [Helen](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/19Nov13.py),[Jerry](https://github.com/JerryHao2001/HAO/blob/master/tests/2019Nov.py),Charlie, Hanbo, David Xing, David Xiong
 
 ### Week2: 2020 Feb 24-28
 #### 2020 Feb 25: Topic 4+5
