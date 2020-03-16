@@ -16,7 +16,7 @@ write all opiton B questions. ddl: Mar 10  22:00pm
 #### 2020 Mar 11: Option B
 * homework 1: summarize 19N paper 2 opiton B in details, write your reflection and submit to me. 
 * homework 2: [past paper 18M](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2018%20May%20Examination%20Session/Computer_science_paper_1__HL.pdf)   Q 2,3,4,5,6,7,8,9,12abc,13,15. Write all the answers on the paper and submit the scanned version to wechat group. Implement Q15 in python and submit your code below.    ddl: Mar 14 6pm.
-* Submit your code here: Helen,Jerry,Charlie, Hanbo, David Xing, David Xiong
+* Submit your code here: [Helen](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/18MayQ15.py),Jerry,Charlie, Hanbo, David Xing, David Xiong
 
 #### 2020 Mar 12: Case Study
 * https://shimo.im/docs/xy6k6vhrh8w9qX6t
@@ -25,7 +25,7 @@ write all opiton B questions. ddl: Mar 10  22:00pm
 * https://shimo.im/docs/CpX9VCwH9pRrgkTQ
 * homework: [past paper 17N](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2017%20November%20Examination%20Session/Computer_science_paper_1__HL.pdf) Q 1,4,5,6,7,8,10e,13,14.
 Write them on the answer sheet. Mark by yourself and reflect on all of them. Then write python code to implement Q14.    ddl: Mar15 6pm.
-* Submit your code here: Helen,Jerry,Charlie, Hanbo, David Xing, David Xiong
+* Submit your code here:[Helen](https://github.com/HelenBai2002Tong/Cesium/blob/master/Projects%26Assignments/17NovQ14.py),Jerry,Charlie, Hanbo, David Xing, David Xiong
 
 
 ### Week3: 2020 Mar 2-6
