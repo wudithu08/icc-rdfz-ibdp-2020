@@ -5,6 +5,12 @@
 * [Topic 4+5 review booklet (shared doc)](https://shimo.im/sheets/YqC3xHy3GRhcCyhT/MODOC)
 * [Topic 2+6 review booklet (shared doc)](https://shimo.im/sheets/rWQxrvRyqhd6YJ6r/MODOC/)
 
+### Week5: 2020 Mar 16-20
+#### 2020 Mar 17: Topic 1+3+7
+*  https://shimo.im/sheets/VJpxY9HjJrv6VcYP/MODOC 「CS HL topic 1+3+7」，可复制链接后用石墨文档 App 或小程序打开  
+* Homework-- [Past paper 17M P1](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2017%20May%20Examination%20Session/Computer_science_paper_1__HL.pdf)  Q1-Q10
+
+
 ### Week4: 2020 Mar 9-13
 #### 2020 Mar 10: Topic 2+6
 *  https://shimo.im/sheets/rWQxrvRyqhd6YJ6r/MODOC/ 「CS HL topic 2+6」，可复制链接后用石墨文档 App 或小程序打开  
