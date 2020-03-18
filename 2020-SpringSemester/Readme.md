@@ -10,6 +10,13 @@
 *  https://shimo.im/sheets/VJpxY9HjJrv6VcYP/MODOC 「CS HL topic 1+3+7」，可复制链接后用石墨文档 App 或小程序打开  
 * Homework-- [Past paper 17M P1](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2017%20May%20Examination%20Session/Computer_science_paper_1__HL.pdf)  Q1-Q10
 
+#### 2020 Mar 18: Topic 1+3+7 
+* Homework-- [Past paper 16N P1](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/Computer_science_HL/2016%20November%20Examination%20Session/Computer_science_paper_1__HL.pdf)  the whole paper, ddl: Mar 22 10pm 
+
+#### 2020 Mar 19: case study
+* Homework -- see above, Past paper 16N P1, the whole paper, implement Q12 in python and submit your code below. ddl: Mar 22 10pm 
+* Submit your code: Helen, Jerry, Hanbo, Charlie, David Xing, David Xiong
+
 
 ### Week4: 2020 Mar 9-13
 #### 2020 Mar 10: Topic 2+6
