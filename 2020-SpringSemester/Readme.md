@@ -5,6 +5,15 @@
 * [Topic 4+5 review booklet (shared doc)](https://shimo.im/sheets/YqC3xHy3GRhcCyhT/MODOC)
 * [Topic 2+6 review booklet (shared doc)](https://shimo.im/sheets/rWQxrvRyqhd6YJ6r/MODOC/)
 
+### Week6: 2020 Mar 23-27
+#### 2020 Mar 23: Topic 2
+##### Summative Assessment in P9 -- Topic 8+10
+#### 2020 Mar 26: Topic 2
+
+#### 2020 Mar 27: Topic 2
+
+
+
 ### Week5: 2020 Mar 16-20
 #### 2020 Mar 17: Topic 1+3+7
 *  https://shimo.im/sheets/VJpxY9HjJrv6VcYP/MODOC 「CS HL topic 1+3+7」，可复制链接后用石墨文档 App 或小程序打开  
