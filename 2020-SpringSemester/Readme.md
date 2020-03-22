@@ -16,7 +16,7 @@
 
 #### 2020 Mar 19: case study
 * Homework -- see above, Past paper 16N P1, the whole paper, implement Q12 in python and submit your code below. ddl: Mar 22 10pm 
-* Submit your code: Helen, Jerry, Hanbo, Charlie, David Xing, David Xiong
+* Submit your code: Helen, [Jerry](https://github.com/JerryHao2001/HAO/blob/master/tests/2016Nov.py), Hanbo, Charlie, David Xing, David Xiong
 
 
 ### Week4: 2020 Mar 9-13
